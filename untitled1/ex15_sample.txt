@@ -1,0 +1,2 @@
+Learn Ruby the hard way:
+Got to say, it's the easist way to learn ruby
